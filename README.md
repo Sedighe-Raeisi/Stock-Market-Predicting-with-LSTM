@@ -1,4 +1,4 @@
-# Stock-Market-Predicting-with-LSTM
+# Stock-Market-Time Series Forecasting
 In this project I used the **Microsoft Stock Market** data which I downloaded in this link:    
 link: https://www.kaggle.com/mohamedbakrey/eda-for-microsoft-stock-data-using-ml-algo-acc100/data     
 
@@ -15,6 +15,13 @@ In the following plot you can see the describtion of each feature:
 I considered the **Adj Close** value as target and the remaining values as feature:**['open', 'High', 'Low', 'Close']**
 I used 90 % of data as train and the rest of data as test:   
 ![image](https://user-images.githubusercontent.com/67642255/145199216-93c9a2e6-f36e-4441-9e83-857bd45bfdf3.png)
+I used dufferent methods like:
+- classical models,   
+- ARIMA,    
+- AR,   
+- VAR, Exponential Smoothing,  
+- LSTM variations,   
+- Facebook Prophet   
 
 # LSTM Model
 
