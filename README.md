@@ -19,7 +19,8 @@ I used dufferent methods like:
 - classical analysis,     
 - ARIMA,    
 - AR,   
-- VAR, Exponential Smoothing,  
+- VAR,  
+- Exponential Smoothing,  
 - LSTM variations,   
 - Facebook Prophet   
 
