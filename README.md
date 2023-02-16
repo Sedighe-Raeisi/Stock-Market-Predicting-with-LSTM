@@ -29,4 +29,8 @@ I used an LSTM neural network of keras.
 I trained the network for 100 epochs.
 In the following plot you can compare the result of prediction with test values.   
 
-![image](https://user-images.githubusercontent.com/67642255/145199974-e76e5bed-bd9e-4bd5-b687-187617cad402.png)
+![image](https://user-images.githubusercontent.com/67642255/145199974-e76e5bed-bd9e-4bd5-b687-187617cad402.png)  
+# Facebook Prophet
+The best result belongs to Facebook Prophet model.   
+![image](https://user-images.githubusercontent.com/67642255/219398430-e9c2b452-ea87-4396-8d5d-d9a5fdcb20bb.png)
+
